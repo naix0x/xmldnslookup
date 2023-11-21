@@ -1,4 +1,4 @@
-##🗿 Blogger DNS Lookup
+## 🗿 Blogger DNS Lookup
 
 Simple .XML (HTML) DNS Lookup for Blogger
 These codes can be used on pages and posts on Blogger.
