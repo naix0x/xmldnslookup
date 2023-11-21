@@ -1,15 +1,15 @@
-## Blogger DNS Lookup
+## 🗿 Blogger DNS Lookup
 
 Simple .XML (HTML) DNS Lookup for Blogger
 These codes can be used on pages and posts on Blogger.
 Bootstrap hasn't been added here, you can add it as you like
 
-## Screenshot
+## 🖼 Screenshot
 
 [<img src="screenshot/Screenshot_20231122-011340_Chrome.jpg" width=160>]
 [<img src="screenshot/Screenshot_20231122-011401_Chrome.jpg" width=160>]
 
-## HTML
+## 💻 HTML
 
 ```html
 <!DOCTYPE html>
