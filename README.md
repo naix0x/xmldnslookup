@@ -2,6 +2,7 @@
 
 Simple .XML (HTML) DNS Lookup for Blogger
 These codes can be used on pages and posts on Blogger.
+Bootstrap hasn't been added here, you can add it as you like
 
 ```html
 <!DOCTYPE html>
