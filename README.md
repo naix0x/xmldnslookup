@@ -142,3 +142,7 @@ Bootstrap hasn't been added here, you can add it as you like
 </body>
 </html>
 ```
+
+## 📝 License
+
+This project is licensed under the [MIT License](https://github.com/naix0x/xmldnslookup/blob/main/LICENSE).
